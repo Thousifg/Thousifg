@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Thousif Gangavaram</h1>
+<h1 align="center">Hi 👋, I am Gangavaram Thousif</h1>
 
 <h3 align="center">A young-dumb 🤓 Full Stack Web Developer from India 🇮🇳</h3>
 
