@@ -12,6 +12,7 @@
 - 📫 Reach me at **Thousifg1999@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at [Thousifg](https://Thousifg.github.io) -->
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
