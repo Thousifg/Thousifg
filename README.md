@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I am Gangavaram Thousif</h1>
 
-<h3 align="center">A young-dumb 🤓 Full Stack Web Developer from India 🇮🇳</h3>
+<h3 align="center">A self-motivated Full Stack Web Developer from India 🇮🇳</h3>
 
 
 <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p>
 
 **Glad To See You Here!** ✨
+- 🔭 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Javascript, Tailwind, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.**
+- 💬 Ask me about **Javascript, MongoDB, and Data Structures and Algorithms.**
 
 - 📫 Reach me at **Thousifg1999@gmail.com**
 
