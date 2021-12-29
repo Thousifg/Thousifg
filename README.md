@@ -1,22 +1,29 @@
 <h1 align="center">Hi 👋, I am Thousif</h1>
 
-<h3 align="center">A self-motivated Full Stack Web Developer from India 🇮🇳</h3>
+<h3 align="center">A self-motivated Full Stack Developer from India 🇮🇳</h3>
 
 
 <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p>
 
 **Glad To See You Here!** ✨
-- 🔭 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on **[Udemy Clone](https://github.com/Sachi4496/Udemy-Clone-Backend)**
 
-- 💬 Ask me about **Javascript, MongoDB, and Data Structures and Algorithms.**
 
-- 📫 Reach me at **Thousifg1999@gmail.com**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🤝 I’m looking to collaborate on OpenSource Projects </p> 
+
+- 👨‍💻 Know more about me at - **[Thousifgangavaram]()**
+
+- 💬 Ask me about **javascript, react and mongoDb**
+
+- 📫 You can reach me at **Thousifgangavaram@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at [Thousifg](https://Thousifg.github.io) -->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.**
 
 <!-- I have a bug to document technical stuffs that I do, which can be found at my [blog](https://thousifg.github.io/blog) -->
 
@@ -25,6 +32,8 @@
 <a href="https://twitter.com/Thousifg1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Thousifg1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Thousifg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Thousifg" height="30" width="40" /></a>
 <a href="https://instagram.com/thousifg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thousifg" height="30" width="40" /></a>
+<!-- <a href="https://hackerrank.com/thousifg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="thousifg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com./thousifg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="thousifg" height="30" width="40" /></a> -->
 </p>
 
 
