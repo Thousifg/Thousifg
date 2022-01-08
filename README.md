@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to collaborate on OpenSource Projects </p> 
 
-- 👨‍💻 Know more about me at - **[Thousifgangavaram](https://thousifg.vercel.app)**
+- 👨‍💻 Know more about me at - **[Thousifg](https://thousifg.vercel.app)**
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
