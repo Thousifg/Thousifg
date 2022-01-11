@@ -4,7 +4,10 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p> -->
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <i>**Glad To See You Here!**</i> ✨
+
 - 🔭 I’m currently working on **[Udemy Clone](https://github.com/Sachi4496/Udemy-Clone-Backend)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -18,8 +21,6 @@
 - 📫 You can reach me at **Thousifgangavaram@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at [Thousifg](https://Thousifg.github.io) -->
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.**
 
