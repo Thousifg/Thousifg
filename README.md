@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thousif</h1>
-<h3><i>A self-motivated Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code from India 🇮🇳.</i></h3>
+<h3><i>A self-motivated Full Stack Web Developer skilled in MERN Stack who focuses on writing clean, elegant and efficient code from India 🇮🇳.</i></h3>
 
 
 <!-- <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p> -->
