@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thousif</h1>
 <!-- <h3><i>A self-motivated Full Stack Web Developer skilled in MERN Stack who focuses on writing clean, elegant and efficient code from India 🇮🇳.</i></h3> -->
-<h3><i>An Aspiring Full Stack Web Developer specilized in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</i></h3>
+<h3><i>An Aspiring Full Stack Web Developer specilized in MERN stack from India 🇮🇳. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.</i></h3>
 
 
 <!-- <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p> -->
