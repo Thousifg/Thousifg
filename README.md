@@ -10,14 +10,14 @@
 <i>**Glad To See You Here!**</i> ✨
 
 - 🔭 I’m currently Student at **Masai School**
+ 
+- 🌱 My learning wish-list includes **Three.js**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 🤝 I’m looking to collaborate on OpenSource Projects </p> 
+- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻** </p> 
 
 - 👨‍💻 Know more about me at - **[My Portfolio](https://thousifg.vercel.app)**
 
-- 💬 Ask me about **javascript, react and mongoDb**
+- 💬 Ask me about **javascript, react and Data Structures and Algorithms.**
 
 - 📫 You can reach me at **Thousifgangavaram@gmail.com**
 
@@ -37,7 +37,7 @@
 </p>
 
 
-<h3 align="left"><i>Tech Stacks:</i></h3>
+<h3 align="center">Profiencies</h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
