@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Thousif</h1>
 <!-- <h3><i>A self-motivated Full Stack Web Developer skilled in MERN Stack who focuses on writing clean, elegant and efficient code from India 🇮🇳.</i></h3> -->
 <h3><i>An Aspiring Full Stack Web Developer specilized in MERN stack from India 🇮🇳. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.</i></h3>
@@ -5,13 +6,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/thousifg1" target="blank"><img src="https://img.shields.io/twitter/follow/thousifg1?logo=twitter&style=for-the-badge" alt="thousifg" /></a> </p> -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 <i>**Glad To See You Here!**</i> ✨
 
 - 🔭 I’m currently Student at **Masai School**
  
-- 🌱 My learning wish-list includes **Three.js**
+<!-- - 🌱 My learning wish-list includes **Three.js** -->
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻** </p> 
 
@@ -37,7 +38,7 @@
 </p>
 
 
-<h3 align="center">Profiencies</h3>
+<h3 align="left"><i>Languages and Tools:</i></h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
